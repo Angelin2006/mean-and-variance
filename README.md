@@ -65,7 +65,7 @@ PROGRAM
 
 OUTPUT:
 
-<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/5fbcba1a-c9e7-493d-8d78-56fbc4682958" />
+<img width="1919" height="1199" alt="Screenshot 2025-11-03 234555" src="https://github.com/user-attachments/assets/211ebcc1-37e5-475b-a4a0-b3ab94e0a1d0" />
 
 Cross Correlation
 
