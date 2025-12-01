@@ -67,6 +67,12 @@ OUTPUT:
 
 <img width="1919" height="1199" alt="Screenshot 2025-11-03 234555" src="https://github.com/user-attachments/assets/211ebcc1-37e5-475b-a4a0-b3ab94e0a1d0" />
 
+Calculation :
+
+![WhatsApp Image 2025-12-01 at 09 58 52_c126bf7e](https://github.com/user-attachments/assets/86d79b7a-7266-4be7-ae6c-a9aa9ea81a87)
+
+![WhatsApp Image 2025-12-01 at 09 58 53_abd178d9](https://github.com/user-attachments/assets/4f7a0018-21c3-4f9a-b829-4861ac6df05b)
+
 Cross Correlation
 
 Type in the reference sequence = [1 2 3 4 5 6 7 8]
